@@ -1,0 +1,11 @@
+body {
+	font-family: Vedana, Geneva, Arial, sans-serif;
+	font-size: medium;
+}
+h1{
+	font-size: 150%;
+	font-weight: normal;
+}
+blockquote{
+	font-style: italic;
+}
